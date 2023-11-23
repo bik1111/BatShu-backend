@@ -3,6 +3,8 @@
 
 **적절한 리워드를 제공하여 자발적인 영상 제보를 유도하고, 필요한 영상 자료를 요청하고 제보할 수 있는 영상 공유 & 거래 플랫폼**
 
+- Service URL : https://batshu-c203f.firebaseapp.com
+
 <p align="center">
   <img width="550" height="300" alt="Your Image Description" src="https://github.com/bik1111/BatShu-backend/assets/76617139/24d2c866-022f-4877-b19e-3a16d2e904f0">
 </p>
